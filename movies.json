@@ -1,0 +1,55 @@
+{
+  "movies": [{
+    "title" : "Indian Cuisine",
+    "episode_number" : "1",
+    "main_characters" : ["Tandoori Chicken", "Beef Vindaloo", "Anakin Skywalker", "Padmé Amidala", "Jar Jar Binks", "Darth Maul"],
+    "description" : "Hot curries with lots of chili and a side of raita to cool down. Dishes are based on rice and often vegetarian or with sea food. Coriander, ginger, cumin, cardamon, saffron and nutmeg a favored flavour makers.",
+    "poster" : "02_Kunal-Daswani-Photography_Food.jpg",
+    "hero_image" : "979898_indian-food-wallpaper.jpg"
+  },
+
+  {
+    "title" : "Italian Cuisine",
+    "episode_number" : "2",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "Jango Fett", "Supreme Chancellor Palpatine"],
+    "description" : "Home of the pasta and the pizza, Italian food is simple dishes with only a few ingredients but of extraordinary quality. Tomatoes and basil, olive oil and Prosciutto de Parma are typical Italian products. Full Italian meals have been known to contain ten different courses from Aperitivo to Caffe. Italians are also known for their fondness of desserts like cheese, cake, icecream, fruit, sweets and cookies.",
+    "poster" : "photo-1506280754576-f6fa8a873550.jpg",
+    "hero_image" : "italian-food-pizza-wallpaper-44477-45603-hd-wallpapers.jpg"
+  },
+
+  {
+    "title" : "Japanese Cuisine",
+    "episode_number" : "3",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "C-3PO", "Supreme Chancellor Palpatine"],
+    "description" : "You cannot avoid the sushi, but Japanese cooking is so much more. Based on noodles or rice the Japanese meals are usually made of sea food, tofu or vegetables. Ingredients are grilled, simmered, deep-fried, steamed, dressed or raw (sashimi).",
+    "poster" : "sushi-japanese-food.jpg",
+    "hero_image" : "shutterstock_379170394.0.0.jpg"
+  },
+
+  {
+    "title" : "French Cuisine",
+    "episode_number" : "4",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Ben Kenobi", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca"],
+    "description" : "Home of the gourmet meal and the Michelin Guide, French cooking is known for its class and superb ingredients. Onions, foie gras, truffles, sea food, crossaints and the baguette, everything arranged with exceptional attention to detail and served with a glass of wine.",
+    "poster" : "94a6f87b7b15db93217d0ab48bc3f9fa--vegan-wedding-food-ideas-vegetarian-wedding-food.jpg",
+    "hero_image" : "Meat_products_Roast_457899.jpg"
+  },
+
+  {
+    "title" : "Chinese Cuisine",
+    "episode_number" : "5",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Lando Calrissian", "Boba Fett"],
+    "description" : "Most meals are served in bite-sized pieces ready to be picked up by chopsticks. Basics include rice and noodles. Meat includes every variety known to man. Vegetables including chilies are always a part of the dishes as well as fish sauce.",
+    "poster" : "Yummy-Chinese-Food-Wallpaper-HD.jpg",
+    "hero_image" : "5a86a4b775b68.jpg"
+  },
+
+  {
+    "title" : "Mexican Cuisine",
+    "episode_number" : "6",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "Chewbacca", "The Emperor", "Boba Fett"],
+    "description" : "Chicken, tamales, tortillas, gorditas, corn, rice and beans are the basics of Mexican food. Spiced up with lots of chili, cinnamon, cumin, garlic and onions. Sweet potatoes, peanuts, avokado, guava, tomato and chocolate also find their way into mexican meals.",
+    "poster" : "Mexican-Quesadilla-Wallpaper-For-IPhone-6.jpg",
+    "hero_image" : "07.mexican-95493225-1680x1050.jpg"
+  }]
+}
